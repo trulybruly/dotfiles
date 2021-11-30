@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# alias config='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'
-
 cd ~
 git clone --bare https://github.com/trulybruly/dotfiles.git $HOME/.cfg
 
