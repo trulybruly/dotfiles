@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/zsh
 
 cd ~
 git clone --bare https://github.com/trulybruly/dotfiles.git $HOME/.cfg
